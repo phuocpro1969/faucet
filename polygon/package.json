@@ -1,0 +1,21 @@
+{
+  "name": "begging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ethereumjs/tx": "^3.3.0",
+    "@truffle/hdwallet-provider": "^1.5.0",
+    "axios": "^0.21.1",
+    "ethereumjs-tx": "^2.1.2",
+    "express": "^4.17.1",
+    "jsbi": "^3.2.1",
+    "web3": "^1.5.2"
+  }
+}
